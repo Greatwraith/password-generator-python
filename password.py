@@ -2,7 +2,7 @@
 
 import random
 
-chars = "abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ12345678910!%&*^@`~()[]{\|}12/?.,<>-+-"
+chars = "abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ12345678910!%&*^@`~()[]{\|}12/?.,<>-+_"
 
 while 1:
     password_len = int(input("what length would ur password to be : "))
